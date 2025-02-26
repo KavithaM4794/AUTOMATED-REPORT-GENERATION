@@ -9,6 +9,9 @@
 **Domain**: PYTHON PROGRAMMING 
 
 **Duration**: FEB 25th 2025 to MARCH 25th, 2025
+
+**Mentor Name**:  Neela Santhosh 
+
 ---
 
 Automatically generate shareable HTML reports from any Excel file using combination of tools, centered around Python.
