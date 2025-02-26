@@ -1,4 +1,15 @@
-# Automated Report Generation
+# Automated Report Generation 
+---
+**KAVITHA M**  
+
+**Company**: CODETECH IT SOLUTIONS  
+
+**Id**: CT08WEB
+
+**Domain**: PYTHON PROGRAMMING 
+
+**Duration**: FEB 25th 2025 to MARCH 25th, 2025
+---
 
 Automatically generate shareable HTML reports from any Excel file using combination of tools, centered around Python.
 
@@ -17,8 +28,4 @@ Automatically generate shareable HTML reports from any Excel file using combinat
     
     Papermill is a handy tool that allows us to “parameterize and execute” Jupyter Notebooks.
     * papermill_automated.ipynb
-    
-## Reference
-[Practical Business Python](https://pbpython.com/papermil-rclone-report-1.html)
 
-[Netflix](https://netflixtechblog.com/notebook-innovation-591ee3221233)
